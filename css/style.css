@@ -1046,6 +1046,7 @@ button, input, textarea:focus {
 }
 .atf-single-feature .atf-feature-icon{
 	width:70px;
+	margin-left: 60px;
 }
 .box-shadow-active{
 -webkit-box-shadow: 0 10px 40px -10px rgba(0,64,128,.2);
