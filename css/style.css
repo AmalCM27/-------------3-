@@ -761,7 +761,7 @@ button, input, textarea:focus {
 	min-height: 100%;
 }
 .atf-header-area .atf-single-details h2 {
-	font-size: 48px;
+	font-size: 43px;
 	font-weight: 700;
 	color: var(--thm-white);
 	text-shadow: 1px 1px 15px rgba(0,0,0, 0.5);
